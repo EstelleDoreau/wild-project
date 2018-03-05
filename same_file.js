@@ -1,0 +1,1 @@
+Atelier Git au lieu de lintégration finale
